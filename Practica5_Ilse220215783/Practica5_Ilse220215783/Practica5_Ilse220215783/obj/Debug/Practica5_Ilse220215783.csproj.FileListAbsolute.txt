@@ -1,0 +1,14 @@
+C:\Users\ilsee\OneDrive\SEMESTRE_3\Desarrollo_III\Unidad2\Practica5_Ilse220215783\Practica5_Ilse220215783\bin\Debug\Practica5_Ilse220215783.exe.config
+C:\Users\ilsee\OneDrive\SEMESTRE_3\Desarrollo_III\Unidad2\Practica5_Ilse220215783\Practica5_Ilse220215783\bin\Debug\Practica5_Ilse220215783.exe
+C:\Users\ilsee\OneDrive\SEMESTRE_3\Desarrollo_III\Unidad2\Practica5_Ilse220215783\Practica5_Ilse220215783\bin\Debug\Practica5_Ilse220215783.pdb
+C:\Users\ilsee\OneDrive\SEMESTRE_3\Desarrollo_III\Unidad2\Practica5_Ilse220215783\Practica5_Ilse220215783\obj\Debug\Practica5_Ilse220215783.csproj.AssemblyReference.cache
+C:\Users\ilsee\OneDrive\SEMESTRE_3\Desarrollo_III\Unidad2\Practica5_Ilse220215783\Practica5_Ilse220215783\obj\Debug\Practica5_Ilse220215783.Form1.resources
+C:\Users\ilsee\OneDrive\SEMESTRE_3\Desarrollo_III\Unidad2\Practica5_Ilse220215783\Practica5_Ilse220215783\obj\Debug\Practica5_Ilse220215783.Properties.Resources.resources
+C:\Users\ilsee\OneDrive\SEMESTRE_3\Desarrollo_III\Unidad2\Practica5_Ilse220215783\Practica5_Ilse220215783\obj\Debug\Practica5_Ilse220215783.csproj.GenerateResource.cache
+C:\Users\ilsee\OneDrive\SEMESTRE_3\Desarrollo_III\Unidad2\Practica5_Ilse220215783\Practica5_Ilse220215783\obj\Debug\Practica5_Ilse220215783.csproj.CoreCompileInputs.cache
+C:\Users\ilsee\OneDrive\SEMESTRE_3\Desarrollo_III\Unidad2\Practica5_Ilse220215783\Practica5_Ilse220215783\obj\Debug\Practica5_Ilse220215783.exe
+C:\Users\ilsee\OneDrive\SEMESTRE_3\Desarrollo_III\Unidad2\Practica5_Ilse220215783\Practica5_Ilse220215783\obj\Debug\Practica5_Ilse220215783.pdb
+C:\Users\Ilse Espinoza\Desktop\SEMESTRE_VI\G.C.S\Practica5_Ilse220215783\Practica5_Ilse220215783\Practica5_Ilse220215783\obj\Debug\Practica5_Ilse220215783.csproj.AssemblyReference.cache
+C:\Users\Ilse Espinoza\Desktop\SEMESTRE_VI\G.C.S\Practica5_Ilse220215783\Practica5_Ilse220215783\Practica5_Ilse220215783\obj\Debug\Practica5_Ilse220215783.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ilse Espinoza\Desktop\SEMESTRE_VI\G.C.S\Practica5_Ilse220215783\Practica5_Ilse220215783\Practica5_Ilse220215783\obj\Debug\Practica5_Ilse220215783.exe
+C:\Users\Ilse Espinoza\Desktop\SEMESTRE_VI\G.C.S\Practica5_Ilse220215783\Practica5_Ilse220215783\Practica5_Ilse220215783\obj\Debug\Practica5_Ilse220215783.pdb
